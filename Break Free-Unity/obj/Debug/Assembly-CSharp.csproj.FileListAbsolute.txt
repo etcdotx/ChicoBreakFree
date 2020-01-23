@@ -1,0 +1,2 @@
+C:\Users\Vincent\Documents\Chicko Breakfree\Break Free\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Vincent\Documents\Chicko Breakfree\Break Free\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
